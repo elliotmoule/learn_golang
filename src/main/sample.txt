@@ -1,0 +1,1 @@
+Hello, nice to meet you. This file was created using GoLang
